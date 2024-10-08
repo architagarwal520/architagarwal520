@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Archit Agarwal
+🎓 Master of Information Technology (AI Specialization) | University of Melbourne (Graduating Dec 2024)  
+🔍 Actively seeking roles in **Machine Learning**, **AI**, **NLP**, **Computer Vision**, and **Data Science**.  
+🚀 Building impactful solutions with AI and ML, focusing on real-world applications.  
 
-<!--
-**architagarwal520/architagarwal520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 My Expertise
+- **Machine Learning**: Supervised/unsupervised learning, Decision Trees, Neural Networks  
+- **Deep Learning**: CNNs, RNNs, Transformers, LSTMs  
+- **NLP**: Text Classification, Named Entity Recognition, BERT, Coreference Resolution  
+- **Computer Vision**: Object Detection (YOLO, Mask R-CNN)  
+- **Languages**: Python, Java, Node.js, C  
 
-Here are some ideas to get you started:
+## 🌟 Currently Working On
+- **Two Bays**: An app that will empower Australian educators to transform learners’ #EcoAnxiety2Action (built in Flutter)   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/archit-agarwal-93b8961b2/)  
