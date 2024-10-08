@@ -11,7 +11,7 @@
 - **Languages**: Python, Java, Node.js, C  
 
 ## 🌟 Currently Working On
-- **Two Bays**: An app that will empower Australian educators to transform learners’ #EcoAnxiety2Action (built in Flutter)   
+- **Two Bays**: Regeneration Projects’ app that will empower Australian educators to transform learners’ #EcoAnxiety2Action (built in Flutter)   
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/archit-agarwal-93b8961b2/)  
